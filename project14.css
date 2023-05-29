@@ -1,0 +1,186 @@
+*{
+    margin: 0px;
+}
+#navstick{
+    /* border: 1px solid blue; */
+    display: flex;
+    background-color: rgb(15, 15, 15);
+    position: sticky;
+    height: 39px;
+    /* align-items: center; */
+    top: 0px;
+    left: 0px;
+   
+}
+.nav:hover{
+height: 45px;
+background-color: grey;
+}
+.nav{
+    /* border: 1px solid green; */
+    width: 100px;
+    /* height: 39px; */
+    text-align: center;
+    line-height: 35px;
+    color: antiquewhite;
+}
+#a7{
+    font-size: medium;
+    line-height: 25px;
+}
+#img1{
+    
+    background-image: url("https://jolly-kalam-23776e.netlify.app/mytunes/img/showcase.jpeg");
+    background-size:100% 100%;
+    height: 160px;
+    padding: 200px;
+    font-size: 30px;
+    font-family: sans-serif;
+    background-repeat: no-repeat;
+    
+    
+}
+h1,h3{
+    text-align: center;
+    color: aliceblue;
+    position: sticky;
+    
+    
+}
+#img2{
+    background-color: rgb(43, 41, 41);
+    height: 1250px;
+    text-align: center;
+    /* padding: 20px; */
+}
+#flex1{
+    /* display: inline-block; */
+    /* display: flex; */
+    align-items: center;
+    padding: 25px;
+    color: aliceblue;
+    /* position: relative; */
+}
+.nav2{
+    color: rgb(247, 243, 243);
+    padding: 30px;
+    /* font-size: 25PX; */
+}
+#a1{
+    font-size: 30px;
+    font-family: sans-serif;
+    font-style: italic;
+} 
+input{
+    border: 1px solid rgb(114, 19, 19);
+    padding: 15px;
+    background-color: rgb(126, 9, 9);
+    color: aliceblue;
+    font-size: 16px;
+}
+#a{
+    font-size: 45px;
+}
+#a2{
+    font-size: 25px;
+}
+#a3{
+    font-size: 30px;
+}
+#a5{
+    border: 1px solid rgb(23, 23, 53);
+    padding: 20px;
+    width: 90px;
+    text-align: center;
+    background-color: rgb(17, 17, 44);
+    color: aliceblue;
+    margin-left: 600px;
+}
+#img3{
+    /* text-align: justify; */
+    /* align-items: center; */
+}
+.nav4{
+    text-align: center;
+    padding: 12px;
+}
+
+#img4{
+     border: 1px solid rgb(34, 4, 4);
+     width: 100%;
+     height: 500px;
+    background-image: url(../section-bg.jpeg);
+    background-size: 100% 100% ;
+    background-repeat: no-repeat;
+    
+    width: 100%;
+    display: flex;
+    align-items: center;
+    
+    /* padding: 20px; */
+    color: aliceblue;
+    font-size: 30px;
+    font-family: sans-serif;
+ 
+}
+#img5{
+    /* padding-top: 200px; */
+    padding: 100px;
+    text-align: center;
+    /* line-height: 50px; */
+}
+
+#img9{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* justify-items: flex-end; */
+  /* padding: 30px; */
+  
+}
+.nav6{
+    /* border: 1px solid black; */
+    margin-top: 30px;
+    width: 500px;
+    height: 250px;
+    padding: 30px;
+
+}
+#pic2{
+    margin-top: 60px;
+}
+#pic{
+    background-image: url(../cards.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#img13{
+    /* border: 1px solid black; */
+    height: 250px;
+    color: aliceblue;
+    display: flex;
+    background-color: rgb(46, 43, 43);
+    justify-content: space-around;
+    justify-items: center;
+   
+}
+.nav8{
+    /* border: 1px solid black; */
+    height: 200px;
+    width: 200px;
+    
+    
+
+}
+#img14{
+    height: 40px;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    line-height: 39px;
+    background-color: rgb(78, 78, 82);
+}
+
+
+
